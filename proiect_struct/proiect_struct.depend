@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1708972866 source:c:\info\proiect_struct\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+	<cstring>
+	<iomanip>
+	<windows.h>
+
